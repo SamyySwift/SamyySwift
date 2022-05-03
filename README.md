@@ -1,10 +1,17 @@
+<div id="headers" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/samuel-okon-61456b1b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TWITTER-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
+</div>
 ### Hi there 👋
 
-<!--
-**SamyySwift/SamyySwift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### 👨‍💻 **About Me**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
