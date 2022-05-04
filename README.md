@@ -28,13 +28,11 @@
 </h2>
 
 <div align="center">
-  <img src = "https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif"/>
+  <img src = "https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400px"/>
 </div>
 
 ---
 ### 👨‍💻 **About Me**
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-okon-61456b1b4")
 
 An Artificial Intelligence and Deep learning enthusiast adept at applying modern deep learning and machine learning technologies to solve real world problems.
 
@@ -68,8 +66,10 @@ An Artificial Intelligence and Deep learning enthusiast adept at applying modern
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyySwift&layout=compact&theme=vision-friendly-dark"/>
 </a>
 
+###
+
 <a href="(https://github.com/SamyySwift/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamyySwift&hide=issues&show_icons=true&theme=gruvbox"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamyySwift&hide=issues&show_icons=true&theme=dark"/>
 </a>
 
 <a href="https://git.io/streak-stats">
