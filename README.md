@@ -34,15 +34,18 @@
 ---
 ### 👨‍💻 **About Me**
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-okon-61456b1b4")
+
 An Artificial Intelligence and Deep learning enthusiast adept at applying modern deep learning and machine learning technologies to solve real world problems.
 
 - 🔭 I’m currently working as a Junior Data Scientist, Developing and Contributing to building ML models!
 - 🌱 I’m currently learning about Robotics!
 - 👯 I’m looking forward to collaborate with different ML engineers.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-     okon-61456b1b4/")
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-okon-61456b1b4")
 - ⚡ I love Music🎵 and Video Games🎮
 
 ---
+
 ## 🛠️ **Languages and Tools**
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF" alt="TF" width="50" height="50"/>&nbsp;
