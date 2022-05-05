@@ -8,7 +8,7 @@
   </a>
   
   
-  <a href="">
+  <a href="https://www.youtube.com/channel/UCpcOwTBCN6vs5J3Zz6tkoqQ">
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge"/>
   </a>
   
@@ -28,7 +28,7 @@
 </h2>
 
 <div align="center">
-  <img src = "https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400px"/>
+  <img src = "https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="500px"/>
 </div>
 
 ---
