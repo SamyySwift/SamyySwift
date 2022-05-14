@@ -6,33 +6,32 @@
  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/samuel-okon-61456b1b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square"/>
   </a>
   
   
   <a href="https://www.youtube.com/channel/UCpcOwTBCN6vs5J3Zz6tkoqQ">
-    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=flat-square"/>
   </a>
   
   <a href="https://twitter.com/sammyudofia1/">
-    <img src="https://img.shields.io/badge/TWITTER-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/TWITTER-blue?logo=twitter&logoColor=white&style=flat-square"/>
   </a>
 </div>
-
 
 <div align="center", id="badges">
 <img src="https://komarev.com/ghpvc/?username=SamyySwift&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 <h3 align = "center">
-    Hi There!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Samuel Okon aka SamSwift
+    Hi There! I'm Samuel
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h3>
 
-<img align = 'right' src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
-
+---
 ### 👨‍💻 **About Me:**
+<img align = 'right' src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
 An Artificial Intelligence and Deep learning enthusiast adept at applying modern deep learning and machine learning technologies to solve real world problems.
 
@@ -59,6 +58,9 @@ An Artificial Intelligence and Deep learning enthusiast adept at applying modern
   </div>
   
 
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyySwift&repo=Smart_city_DNN_Video_AI_Application_using_Nvidia_DeepStream)](https://github.com/SamyySwift/Smart_city_DNN_Video_AI_Application_using_Nvidia_DeepStream/blob/main/README.md)
+ -->
   ### 🔥 **My Stats:**
   
 <a href="https://github.com/SamyySwift/github-readme-stats">
