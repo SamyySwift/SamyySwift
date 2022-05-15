@@ -31,11 +31,11 @@
 
 ---
 ### 👨‍💻 **About Me:**
-<img align = 'right' src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img align = 'right' src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-An Artificial Intelligence and Deep learning enthusiast adept at applying modern deep learning and machine learning technologies to solve real world problems.
+I'm a Data Scientist and a Machine Learning Engineer!
 
-- 🔭 I’m currently working as a Junior Data Scientist, Developing and Contributing to building ML models!
+- 🔭 I’m currently working as a Junior Data Scientist.
 - 🌱 I’m currently learning about Robotics!
 - 👯 I’m looking forward to collaborate with different ML engineers.
 - 👨‍💼 I'm a great Team Player! with great communication skills!
@@ -54,6 +54,7 @@ An Artificial Intelligence and Deep learning enthusiast adept at applying modern
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   </div>
   
