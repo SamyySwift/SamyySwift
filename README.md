@@ -62,9 +62,6 @@ I'm a Data Scientist and a Machine Learning Engineer!
   </div>
   
 
-<!-- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyySwift&repo=Smart_city_DNN_Video_AI_Application_using_Nvidia_DeepStream)](https://github.com/SamyySwift/Smart_city_DNN_Video_AI_Application_using_Nvidia_DeepStream/blob/main/README.md)
- -->
   ### 🔥 **My Stats:**
   
 <a href="https://github.com/SamyySwift/github-readme-stats">
@@ -80,6 +77,3 @@ I'm a Data Scientist and a Machine Learning Engineer!
 <a href="https://git.io/streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SamyySwift&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
-
-
-
