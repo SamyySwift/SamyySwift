@@ -30,8 +30,13 @@
 </h3>
 
 ---
+
+<div id="headers" align="center">
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350"/> -->
+  <img align = 'center' src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</div>
+
 ### 👨‍💻 **About Me:**
-<img align = 'right' src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 I'm a Data Scientist and a Machine Learning Engineer!
 
@@ -65,7 +70,7 @@ I'm a Data Scientist and a Machine Learning Engineer!
   ### 🔥 **My Stats:**
   
 <a href="https://github.com/SamyySwift/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyySwift&layout=compact&theme=vision-friendly-dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyySwift&layout=compact&theme="vision-friendly-dark"/>
 </a>
 
 #####
