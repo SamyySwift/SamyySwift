@@ -17,6 +17,10 @@
   <a href="https://twitter.com/sammyudofia1/">
     <img src="https://img.shields.io/badge/TWITTER-blue?logo=twitter&logoColor=white&style=flat-square"/>
   </a>
+  
+  <a href="https://samyyswift.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-green?logo=appveyor&logoColor=white&style=flat-square"/>
+  </a>
 </div>
 
 <div align="center", id="badges">
@@ -26,7 +30,7 @@
 
 <h4 align = "center">
     Hi There! I'm Samuel
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"/>
 </h4>
 
 ---
