@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
  -->
- ![MasterHead](https://github.com/SamyySwift/SamyySwift/blob/main/img/Samuel%20Okon.png)
+ ![](https://github.com/SamyySwift/SamyySwift/blob/main/img/Samuel%20Okon.png)
  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/samuel-okon-61456b1b4/">
