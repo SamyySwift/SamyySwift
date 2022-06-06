@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
  -->
- ![MasterHead](https://images.squarespace-cdn.com/content/v1/56001a27e4b08aa6c7fa74e1/1608127415337-OUP2DUHFI3SHOSPKK3SU/MachineLearning-Banner.jpg?format=2500w)
+ ![MasterHead](https://github.com/SamyySwift/SamyySwift/blob/main/img/Samuel%20Okon.png)
  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/samuel-okon-61456b1b4/">
