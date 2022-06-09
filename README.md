@@ -29,7 +29,7 @@
 
 
 <h4 align = "center">
-  <p> Hi There! I'm Samuel </p>
+  Hi There! I'm Samuel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"/>
 </h4>
 
