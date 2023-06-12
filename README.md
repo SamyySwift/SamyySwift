@@ -14,10 +14,6 @@
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=flat-square"/>
   </a>
   
-  <a href="https://twitter.com/sammyudofia1/">
-    <img src="https://img.shields.io/badge/TWITTER-blue?logo=twitter&logoColor=white&style=flat-square"/>
-  </a>
-  
   <a href="https://samyyswift.github.io">
     <img src="https://img.shields.io/badge/Portfolio-green?logo=appveyor&logoColor=white&style=flat-square"/>
   </a>
@@ -30,7 +26,7 @@
 
 <h4 align = "center">
   Hi There! I'm Samuel
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h4>
 
 ---
@@ -42,13 +38,14 @@
 
 ### 👨‍💻 **About Me:**
 
-I'm a Data Scientist and a Machine Learning Engineer!
+**I'm a Machine Learning Engineer!**
 
-- 🔭 I’m currently working as a Junior Data Scientist.
-- 🌱 I’m currently learning about Robotics!
+- 👨‍💻 I’m currently working as a Machine learning Engineer.
+- ♻️ I’m currently learning about MLOPs.
+- 🤖 I;m also enthusiatic about robotics.
 - 👯 I’m looking forward to collaborate with different ML engineers.
 - 👨‍💼 I'm a great Team Player! with great communication skills!
-- ⚡ I love Music🎵 and Video Games🎮
+- 😉 I love Music🎵 and Video Games🎮
 
 ## 🛠️ **Languages and Tools:**
   <div>
