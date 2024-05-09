@@ -40,12 +40,13 @@
 
 **I'm a Machine Learning Engineer!**
 
-- 👨‍💻 I’m currently working as a Machine learning Engineer.
-- ♻️ I’m currently learning about MLOPs.
-- 🤖 I;m also enthusiatic about robotics.
-- 👯 I’m looking forward to collaborate with different ML engineers.
-- 👨‍💼 I'm a great Team Player! with great communication skills!
-- 😉 I love Music🎵 and Video Games🎮
+- 👨‍💻 I'm a Machine Learning Engineer and love building fullstack AI applications.
+- 👨‍💻 I have full-stack experience with the MERN stack.
+- ♻️ I'm currently learning about Generative AI.
+- 🤖 I'm also enthusiastic about robotics.
+- 👯 I'm looking forward to collaborating with different ML engineers.
+- 👨‍💼 I'm a great team player with excellent communication skills.
+- 😉 I love music 🎵 and video games 🎮.
 
 ## 🛠️ **Languages and Tools:**
   <div>
