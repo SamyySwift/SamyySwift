@@ -1,7 +1,4 @@
-<!-- <div id="headers" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-</div>
- -->
+
  ![](https://github.com/SamyySwift/SamyySwift/blob/main/img/Samuel%20Okon.png)
  
 <div id="badges" align="center">
@@ -26,7 +23,6 @@
 
 <h4 align = "center">
   Hi There! I'm Samuel
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h4>
 
 ---
