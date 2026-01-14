@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+AI+Developer+%F0%9F%9A%80;Generative+AI+Enthusiast+%E2%9C%A8;Robotics+Explorer+%F0%9F%A4%96)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=680&lines=AI+%26+Automation+Engineer+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%9A%80;Building+Intelligent+Agentic+Systems+%E2%9C%A8;LLMOps+%26+MLOps+Specialist+%F0%9F%94%A7)](https://git.io/typing-svg)
   
 </div>
 
@@ -13,6 +13,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-okon-61456b1b4/)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpcOwTBCN6vs5J3Zz6tkoqQ)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=safari&logoColor=white)](https://samyyswift.github.io)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueludofia94@gmail.com)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=SamyySwift&style=for-the-badge&color=blueviolet)
   
@@ -25,29 +26,41 @@
 ### 👨‍💻 About Me
 
 ```python
-class MachineLearningEngineer:
+class AIEngineer:
     def __init__(self):
         self.name = "Samuel Okon"
-        self.role = "Machine Learning Engineer"
+        self.role = "AI & Automation Engineer"
         self.location = "Abuja, Nigeria"
-        self.interests = ["AI/ML", "Full Stack Dev", "Robotics"]
-        self.current_focus = "Generative AI"
+        self.company = "Sartor Limited"
+        self.education = "B.Eng Electrical Engineering"
+        self.focus = [
+            "Intelligent Agentic Systems",
+            "LLM Integration & Automation",
+            "Computer Vision & NLP",
+            "MLOps & LLMOps"
+        ]
         
-    def say_hi(self):
-        print("Building the future with AI, one model at a time!")
+    def current_work(self):
+        return {
+            "building": "AI-driven systems with LLMs",
+            "deploying": "Scalable ML pipelines on cloud",
+            "teaching": "Data Science at GoMyCode",
+            "achievements": "40% latency reduction in AI APIs"
+        }
 
-me = MachineLearningEngineer()
-me.say_hi()
+me = AIEngineer()
+print(me.current_work())
 ```
 
-- 🔭 Building **full-stack AI applications** with modern ML frameworks
-- 🌱 Deep diving into **Generative AI** and **LLMs**
-- 🤖 Passionate about **Robotics** and **Computer Vision**
-- 💻 Full-stack experience with **MERN** stack
-- 🤝 Open to collaborating on innovative **ML projects**
-- 💬 Ask me about **Python, TensorFlow, PyTorch, or AI**
-- 🎵 Music lover and 🎮 gaming enthusiast
-- ⚡ Fun fact: I debug with coffee and music!
+- 🔭 Currently leading **AI/ML & CLG development** at Sartor Limited
+- 🎓 Teaching **Data Science** at GoMyCode, empowering the next generation
+- 🤖 Specialized in **Agentic Systems** and **LLM Automation**
+- ☁️ Deploying production AI on **AWS, GCP, and Vertex AI**
+- 🏆 **KaggleX Scholarship & Project Spotlight Winner**
+- 🎯 Built ML models with **92% accuracy** for sensitive data detection
+- 💡 Reduced deployment time by **50%** with MLOps practices
+- 🚀 Increased model performance by **40%** through optimization
+- 📫 Reach me: **samueludofia94@gmail.com**
 
 ---
 
@@ -55,28 +68,55 @@ me.say_hi()
 
 <div align="center">
 
-#### **AI/ML & Data Science**
+#### **Programming & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### **AI/ML & Deep Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-#### **Development & DevOps**
+#### **LLM & Agent Frameworks**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangFlow](https://img.shields.io/badge/LangFlow-0066FF?style=for-the-badge&logo=flow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+#### **MLOps & LLMOps**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white)
+![Evidently AI](https://img.shields.io/badge/Evidently_AI-6366F1?style=for-the-badge&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+#### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### **Web Development**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-#### **Hardware & IoT**
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -85,30 +125,75 @@ me.say_hi()
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamyySwift&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamyySwift&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamyySwift&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamyySwift&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyySwift&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamyySwift&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyySwift&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamyySwift&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" />
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **AI Automations** | End-to-end LLM automations including lead capture, job search workflows, and multi-step agent systems | LangChain, OpenAI, n8n |
+| 🍔 **Can I Eat This** | Food app leveraging AI to analyze food images and offer dietary recommendations | Computer Vision, NLP |
+| 🌱 **Plant Disease Detection** | Computer vision solution revolutionizing plant disease detection for farmers | TensorFlow, OpenCV |
+| 🚗 **Driver Drowsiness Detector** | Real-time video analytics tool monitoring driver alertness | Computer Vision, OpenCV |
+| 🏥 **Patient Mortality Predictor** | Deep neural network predicting patient mortality from time series data | Deep Learning, TensorFlow |
+| 🚦 **Smart Traffic Analytics** | Real-time video AI application detecting and classifying vehicles | Nvidia DeepStream SDK |
+
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### 🏆 Achievements & Certifications
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamyySwift&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true" width="100%">
+
+**🎖️ Awards**
+- 🏅 **KaggleX Scholarship Winner**
+- ⭐ **KaggleX Project Spotlight Winner**
+- 🎓 **Best Instructor at GoMyCode**
+
+**📜 Key Certifications**
+- DeepLearning.AI: Generative AI with Large Language Models
+- Google Cloud: Machine Learning Operations (MLOps)
+- Google Cloud: Computer Vision Fundamentals
+- Nvidia DLI: Building Real-Time Video AI Applications
+- DeepLearning.AI: Machine Learning Specialization
+
 </div>
+
+---
+
+### 💼 Professional Experience
+
+```yaml
+Current Role:
+  title: "Python Developer – AI/ML & CLG Lead"
+  company: "Sartor Limited"
+  location: "Remote, Abuja FCT"
+  highlights:
+    - "Reduced API response latency by 40%"
+    - "Delivered full CLG MVP ahead of deadline"
+    - "Integrated blockchain for secure authentication"
+
+Teaching:
+  title: "Data Science Instructor"
+  company: "GoMyCode"
+  focus: "ML, Python, Data Visualization"
+  
+Previous:
+  - "Machine Learning Engineer Intern @ Zimmerman B.V"
+  - "Junior Data Scientist @ Zummit Africa"
+  - "Data Science Intern @ Hamoye AI Labs"
+```
 
 ---
 
@@ -116,16 +201,18 @@ me.say_hi()
 
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SamyySwift/SamyySwift/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=SamyySwift&theme=github-dark-dimmed&hide_border=true&area=true)
+
 </div>
 
 ---
@@ -134,10 +221,12 @@ me.say_hi()
 
 <div align="center">
   
-  **Feel free to reach out for collaborations or just a friendly chat about AI, ML, or tech!**
+  **Open to collaborations on AI/ML projects and consulting opportunities!**
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Email](https://img.shields.io/badge/samueludofia94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueludofia94@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/samuel--okon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-okon-61456b1b4/)
+  [![Portfolio](https://img.shields.io/badge/samyyswift.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://samyyswift.github.io)
+  [![YouTube](https://img.shields.io/badge/SwiftTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpcOwTBCN6vs5J3Zz6tkoqQ)
   
 </div>
 
@@ -149,8 +238,8 @@ me.say_hi()
 
 <div align="center">
   
-  **⭐️ From [SamyySwift](https://github.com/SamyySwift) with ❤️**
+  **⭐️ From [SamyySwift](https://github.com/SamyySwift)**
   
-  *Made with 🤖 AI & lots of ☕*
+  *Building intelligent systems that automate the future* 🤖✨
   
 </div>
